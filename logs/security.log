@@ -1,0 +1,3 @@
+[2026-05-26 02:45:10] ALERT: Unauthorized role attempt by hacker_user as admin
+[2026-05-26 02:45:15] ALERT: Unauthorized role attempt by testuser as quanly
+[2026-05-26 02:46:02] ALERT: Unauthorized role attempt by lamer_pro as root
